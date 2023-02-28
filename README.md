@@ -13,3 +13,10 @@ public static void main(String[] args){
 ```
 
 Fontos, ha normál szoveget irsz akkor a uj sor a dupla szokoz!
+
+Tehát:
+```java
+System.out.println("Jó reggelt!");
+```
+
+Itt a komment folytatódik
