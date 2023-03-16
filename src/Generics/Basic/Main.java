@@ -1,5 +1,7 @@
 package Generics.Basic;
 
+
+///*********
 public class Main {
     public static void main(String[] args) {
         Box<String> box1 = new Box<>("Kék doboz");
