@@ -8,5 +8,7 @@ public class Array {
         cars[0] = "Opel";
         System.out.println(cars[0]);
         System.out.println(cars.length);
+
+         int[] intArray = new int[20];
     }
 }

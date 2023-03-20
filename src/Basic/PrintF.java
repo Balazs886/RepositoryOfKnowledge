@@ -27,6 +27,8 @@ public class PrintF {
 
          */
 
+        int number = 42;
         System.out.println("meter/second\u00b2");
+        System.out.printf("%4d\n", number);
     }
 }
